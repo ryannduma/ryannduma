@@ -1,8 +1,7 @@
 ## Hello World 👋
 
 My name is Ry and I am a Materials Science and Engineering student at Imperial College.
-- I currently work and study in London, but I was born and raised in Nairobi, Kenya 🇰🇪
-
+- 🌍 I currently work and study in London, but I was born and raised in Nairobi, Kenya 🇰🇪
 - 🔭 I’m currently working on WMD's SMACT Chemical filters to improve it's outputs
 - 🌱 I’m currently learning ML & Data Science
 - 👯 I’m looking to collaborate on ML/AI/DL projects
