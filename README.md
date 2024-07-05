@@ -11,8 +11,4 @@ My name is Ry and I am a Materials Science and Engineering student at Imperial C
 - 📫 How to reach me: napo.nduma22@imperial.ac.uk, rynduma on twitter, Ryan Nduma on LinkedIn
 - 😄 Pronouns: he/him/his
 ## thats all for now, stay well :)
-<div id="header" align="center">
-  
-<iframe src="https://giphy.com/embed/v5s1WhJibscgveoNH9" width="270" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/usa-america-4th-of-july-v5s1WhJibscgveoNH9">via GIPHY</a></p>
-
-</div>
+https://imgs.xkcd.com/comics/data_trap_2x.png
