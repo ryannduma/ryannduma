@@ -10,6 +10,9 @@ My name is Ry and I am a Materials Science and Engineering student at Imperial C
 - 💬 Ask me about how to train for a marathon, music, film, mountain biking, photography and all things gaming
 - 📫 How to reach me: napo.nduma22@imperial.ac.uk, rynduma on twitter, Ryan Nduma on LinkedIn
 - 😄 Pronouns: he/him/his
-
-![image](https://github.com/ryannduma/ryannduma/assets/54267734/9a0a4fc6-2f84-4e06-9e4d-475960dcaca4)
+## thats all for now, stay well :)
+<div id="header" align="center">
+  
 <iframe src="https://giphy.com/embed/v5s1WhJibscgveoNH9" width="270" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/usa-america-4th-of-july-v5s1WhJibscgveoNH9">via GIPHY</a></p>
+
+</div>
