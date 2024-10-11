@@ -2,9 +2,9 @@
 
 My name is Ry and I am a Materials Science and Engineering student at Imperial College.
 - 🌍 I currently work and study in London, but I was born and raised in Nairobi, Kenya 🇰🇪
-- 🔭 I’m working on WMD-group's SMACT chemical filters to improve it's intermettalic element probing.
-- 🌱 I’m currently binging StatQuest on YT.
-- 📜 I'm reading the recent Llama 3.1 paper, and a book called 'Antifragility' by Nassim Taleb
+- 🔭 I’m working on WMD-group's SMACT.
+- 🌱 I’m currently binging Andrej Karpathy on YT and Vinland Saga (anime)
+- 📜 I'm reading the Self Supervised Learning I-JEPA paper, and a book called 'The Republic' by Plato
 - 👯 I’m looking to collaborate on Materials Informatics, fine-tuning LLMs & text to image projects.
 - 🤔 I’m looking for help with improving my Chinese 喂，你好吗？
 - 💬 Ask me about how to train for a marathon, music, film, mountain biking, photography and all things gaming
