@@ -11,7 +11,7 @@ My name is Ry and I am a Materials Science and Engineering student at Imperial C
 - 💬 Ask me about how to train for a marathon, music, film, mountain biking, photography and all things gaming
 - 📫 How to reach me: napo.nduma22@imperial.ac.uk, Ry Nduma on LinkedIn, Ry's Meta on Substack
 - 😄 Pronouns: he/him/his
-### that's all for now, stay well and happy lunar new year 🐍
+### that's all for now, stay well!
 ![image](https://imgs.xkcd.com/comics/compiling.png)
 
 image - xkcd : Compiling / #303
