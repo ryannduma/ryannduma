@@ -2,7 +2,7 @@
 
 My name is Ry and I am a Materials Science and Engineering student at Imperial College.
 - 🌍 I currently work and study in London, but I was born and raised in Nairobi, Kenya 🇰🇪
-- 🔭 I work on LLMs and SMACT 
+- 🔭 I work on LLMs and Cheminformatics tools 
 - 📜 I'm reading a book called 'The Shallows' by Nicholas Carr and musing on a few blogs on Substack!
 - 👯 I’d love to collaborate on Materials Informatics, LLMs, Computer Vison (for SignSpeak) & automated robot systems. 
 - 🌱 I’m currently binging Attack on Titan (anime) while playing Spider-Man Miles Morales.
