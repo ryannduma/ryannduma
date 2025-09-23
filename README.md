@@ -5,7 +5,7 @@ I build AI systems for materials design.
 
 - 🌍 I currently work and study in London, but I was born and raised in Nairobi, Kenya 🇰🇪
 - 🔭 I work on LLMs and cheminformatics tools: [Crystalyse](https://www.crystalyse.ai/) (multi-tool agentic materials design), [Sky](https://github.com/hspark1212/synthesis-agent) (synthesis exploration agent), and [SMACT](https://github.com/WMD-group/SMACT) (chemical heuristics and property prediction)
-- 📜 I'm reading 'The Age of Surveillance Capitalism' by Shoshana Zuboff and exploring [Chris Olah's](https://colah.github.io/) interpretability work
+- 📜 I'm reading 'The Structure of Scientific Revolutions' by Thomas S. Kuhn and exploring [Chris Olah's](https://colah.github.io/) interpretability work
 - 👯 I'd love to collaborate on:
     - Interpretable AI for scientific applications
     - Agentic AI systems for scientific discovery
