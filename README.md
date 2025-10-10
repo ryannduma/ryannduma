@@ -1,9 +1,11 @@
 ## Hello World 👋  
 I'm Ry — a Beacon Scholar born and raised in Nairobi, Kenya 🇰🇪, studying Materials Science & Engineering at Imperial College London.  
 
-My work explores how AI and machine learning can accelerate understanding and discovery in chemistry and materials science. I build tools like [Crystalyse](https://www.crystalyse.ai/) (multi-tool agentic materials design), [Sky](https://github.com/hspark1212/synthesis-agent) (synthesis exploration agent), and [SMACT](https://github.com/WMD-group/SMACT) (chemical heuristics and property prediction).  
+My work explores how AI and machine learning can accelerate understanding and discovery in chemistry and materials science. I build tools like [Crystalyse](https://www.crystalyse.ai/) (multi-tool agentic materials design), [Sky](https://github.com/hspark1212/synthesis-agent) (synthesis exploration agent), and [SMACT](https://github.com/WMD-group/SMACT) (chemical heuristics and property prediction toolkit).  
 
-I’m interested in the philosophy of science, interpretability, and how reasoning systems can reflect human curiosity.
+My work is guided by an interest in the philosophy of science and interpretability, with a focus on how reasoning systems can solve pressing commercial and scientific challenges.
+
+> I am actively exploring opportunities where I can apply my skills to solve impactful problems. I am open to discussing roles in technical research, engineering, and consulting, as well as compelling PhD and Masters programs.
 
 #### *Side Notes*
 
